@@ -15,7 +15,7 @@ Sometimes I find such helpful articles or sites that I don't want to miss them i
 The Complete Ruby on Rails Developer Course provides a thorough introduction to Web Applications Development using the wildly popular Ruby on Rails framework. With 40+ hours of engaging video lectures and text follow-up lectures with directions, references and code.*
 
 - [**Kevin Scogland**](https://www.lynda.com/Kevin-Skoglund/104-1.html) is one of the best teachers. If someone wants to undestand Ruby clearly I recommend all his courses.
->*Kevin Skoglund is the founder of Nova Fabrica, a web development agency specialized in delivering custom, scalable solutions using Ruby on Rails, PHP, SQL, and related technologies. Nova Fabrica clients include An Event Apart, Atlas Carpet Mills, Consulate Film, Gregorius|Pineo, Maharam, Oakley, and The Bold Italic. Kevin is a lynda.com author with over 15 years of teaching and web development experience.*
+>*Kevin Skoglund is the founder of Nova Fabrica, a web development agency specialized in delivering custom, scalable solutions using Ruby on Rails, PHP, SQL, and related technologies. Nova Fabrica clients include An Event Apart, Atlas Carpet Mills, Consulate Film, Gregorius Pineo, Maharam, Oakley, and The Bold Italic. Kevin is a lynda.com author with over 15 years of teaching and web development experience.*
 
 ### Apps
 
