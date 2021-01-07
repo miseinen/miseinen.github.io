@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Archive of useful resources helping me on learning path
 
-You can use the [editor on GitHub](https://github.com/miseinen/miseinen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Sometimes I find such helpful articles or sites that I don't want to miss them in endless space of Internet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Refactoring and patterns
 
-### Markdown
+:paw_prints:[**Refactoring Guru**](https://refactoring.guru/)
+>*Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Ruby (Ruby on Rails)
 
-# Header 1
-## Header 2
-### Header 3
+:paw_prints:One of the best courses: [**The Complete Ruby on Rails Developer Course**](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
+>*This course currently features the Ruby programming language, 5 total apps -- Alpha-blog and Finance Tracker featuring Rails 6, MessageMe and University app featuring Rails 5 and a SAAS app upgrade to Rails 6 underway!
+The Complete Ruby on Rails Developer Course provides a thorough introduction to Web Applications Development using the wildly popular Ruby on Rails framework. With 40+ hours of engaging video lectures and text follow-up lectures with directions, references and code.*
 
-- Bulleted
-- List
+:paw_prints:[**Kevin Scogland**](https://www.lynda.com/Kevin-Skoglund/104-1.html) is one of the best teachers. If someone wants to undestand Ruby clearly I recommend all his courses.
+>*Kevin Skoglund is the founder of Nova Fabrica, a web development agency specialized in delivering custom, scalable solutions using Ruby on Rails, PHP, SQL, and related technologies. Nova Fabrica clients include An Event Apart, Atlas Carpet Mills, Consulate Film, Gregorius|Pineo, Maharam, Oakley, and The Bold Italic. Kevin is a lynda.com author with over 15 years of teaching and web development experience.*
 
-1. Numbered
-2. List
+### Apps
 
-**Bold** and _Italic_ and `Code` text
+- [**Sololearn**](https://play.google.com/store/apps/details?id=com.sololearn&hl=ru&gl=US) is to get basic knowledge about any programming language.
+- [**Codecademy**](https://www.codecademy.com) is for the same reason as Sololearn.
+- [**Codewars**](https://www.codewars.com/) is a cool code trainer.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/miseinen/miseinen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
