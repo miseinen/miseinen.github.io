@@ -14,7 +14,7 @@ Sometimes I find such helpful articles or sites that I don't want to miss them i
 ### Ruby (Ruby on Rails)
 
 - One of the best courses: [**The Complete Ruby on Rails Developer Course**](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
-   - <details>
+  - <details>
       <summary><i>Details</i></summary>
       <i>This course currently features the Ruby programming language, 5 total apps -- Alpha-blog and Finance Tracker featuring Rails 6, MessageMe and University app featuring Rails 5 and a SAAS app upgrade to Rails 6 underway!
       The Complete Ruby on Rails Developer Course provides a thorough introduction to Web Applications Development using the wildly popular Ruby on Rails framework. With 40+ hours of engaging video lectures and text follow-up lectures with directions, references and code.</i>
