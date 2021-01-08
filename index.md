@@ -25,7 +25,7 @@ Sometimes I find such helpful articles or sites that I don't want to miss them i
       <i>Kevin Skoglund is the founder of Nova Fabrica, a web development agency specialized in delivering custom, scalable solutions using Ruby on Rails, PHP, SQL, and related technologies. Nova Fabrica clients include An Event Apart, Atlas Carpet Mills, Consulate Film, Gregorius Pineo, Maharam, Oakley, and The Bold Italic. Kevin is a lynda.com author with over 15 years of teaching and web development experience.</i>
     </details>
     
-- [Specs Best practice](https://www.betterspecs.org/). I was so happy when I finally found this site.
+- [**Specs Best practice**](https://www.betterspecs.org/). I was so happy when I finally found this site.
   - <details>
       <summary><i>Click for Details</i></summary>
       <i>Better Specs is a collection of best practices developers learned while testing apps that you can use to improve your coding skills, or simply for inspiration. Better Specs came to life at Lelylan (open source IoT cloud platform) and checking out its test suite may be of inspiration.</i>
