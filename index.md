@@ -6,7 +6,7 @@ Sometimes I find such helpful articles or sites that I don't want to miss them i
 
 [**Refactoring Guru**](https://refactoring.guru/)
 <details>
-  <summary><i>>>Details</i></summary>
+  <summary><i>Click for Details</i></summary>
   <i>Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.</i>
 </details>
 
@@ -15,14 +15,14 @@ Sometimes I find such helpful articles or sites that I don't want to miss them i
 
 - One of the best courses: [**The Complete Ruby on Rails Developer Course**](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
   - <details>
-      <summary><i>>>Details</i></summary>
+      <summary><i>Click for Details</i></summary>
       <i>This course currently features the Ruby programming language, 5 total apps -- Alpha-blog and Finance Tracker featuring Rails 6, MessageMe and University app featuring Rails 5 and a SAAS app upgrade to Rails 6 underway!
       The Complete Ruby on Rails Developer Course provides a thorough introduction to Web Applications Development using the wildly popular Ruby on Rails framework. With 40+ hours of engaging video lectures and text follow-up lectures with directions, references and code.</i>
     </details>
 
 - [**Kevin Scogland**](https://www.lynda.com/Kevin-Skoglund/104-1.html) is one of the best teachers. If someone wants to undestand Ruby clearly I recommend all his courses.
   - <details>
-      <summary><i>>>Details</i></summary>
+      <summary><i>Click for Details</i></summary>
       <i>Kevin Skoglund is the founder of Nova Fabrica, a web development agency specialized in delivering custom, scalable solutions using Ruby on Rails, PHP, SQL, and related technologies. Nova Fabrica clients include An Event Apart, Atlas Carpet Mills, Consulate Film, Gregorius Pineo, Maharam, Oakley, and The Bold Italic. Kevin is a lynda.com author with over 15 years of teaching and web development experience.</i>
     </details>
 
