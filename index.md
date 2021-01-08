@@ -5,10 +5,10 @@ Sometimes I find such helpful articles or sites that I don't want to miss them i
 ### Refactoring and patterns
 
 [**Refactoring Guru**](https://refactoring.guru/)
-<details>
-  <summary><i>Click for Details</i></summary>
-  <i>Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.</i>
-</details>
+  - <details>
+      <summary><i>Click for Details</i></summary>
+      <i>Refactoring.Guru makes it easy for you to discover everything you need to know about refactoring, design patterns, SOLID principles, and other smart programming topics.</i>
+    </details>
 
 ### Ruby (Ruby on Rails)
 
